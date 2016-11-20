@@ -1,4 +1,4 @@
-# tableau_works
+# INVESTMENT DECISION OF VENTURE CAPITAL FUNDS
 
 The Board of Directors of a financial firm, VENTURE CAPITAL FUNDS are potentially reviewing the 1000 potentially interesting startups and deciding on which one they are going to invest on.
 The criteria for selecting these startups are based on three factors:
